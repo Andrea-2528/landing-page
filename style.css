@@ -156,6 +156,7 @@ img {
     align-self: flex-end;
     font-size: 30px;
     font-weight: bold;
+    padding-right: 200px;
 }
 
 .signup {
